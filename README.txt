@@ -1,4 +1,4 @@
-This is a resubmition for the movie webpage project, so let's call
+This is a resubmission for the movie webpage project, so let's call
 this version 1.1 to note the fixes. No new features introduced. 
 
 Cleaned up code and comments to conform to style guidelines.
